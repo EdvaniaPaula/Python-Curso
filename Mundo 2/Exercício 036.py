@@ -1,6 +1,5 @@
 
 
-
 valorCasa = float(input('Qual o valor da casa? R$'))
 SalarioP = float(input('Qual o valor do seu salario? R$'))
 anos = int(input('Quantos anos de pagamento? '))

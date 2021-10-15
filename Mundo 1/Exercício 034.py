@@ -3,6 +3,7 @@
 # Para os inferiores ou iguais, o aumento é de 15%.
 
 
+
 sal = float(input('Qual o seu salario atual? R$'))
 if sal <= 1250:
     new = sal + (sal * 15 / 100)

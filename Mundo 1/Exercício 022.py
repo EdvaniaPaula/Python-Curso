@@ -5,6 +5,7 @@
 #   -> Quantas letras tem o primeiro nome.
 
 
+
 nome = str(input('Digite seu nome completo:'))
 print('Em Maiúsculas: {}'.format(nome.upper()))
 print('Em Minúsculas: {}'.format(nome.lower()))

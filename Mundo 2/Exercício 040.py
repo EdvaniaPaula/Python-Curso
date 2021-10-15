@@ -15,3 +15,4 @@ elif media < 5.0:
     print('Média: {:.1f}  SINTO MUITO VOCÊ ESTÁ REPROVADO(A)!'.format(media))
 else:
     print('COMANDO INVÁLIDO!')
+    

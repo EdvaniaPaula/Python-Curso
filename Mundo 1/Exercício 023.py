@@ -6,6 +6,7 @@
 # milhar: 1
 
 
+
 numero = int(input('Digite um valor inteiro de 0 a 9999 :'))
 u = numero // 1 % 10
 d = numero // 10 % 10

@@ -1,6 +1,5 @@
 
 
-
 numero = int(input('Digite um número inteiro: '))
 print('''Escolha qual será a forma de conversão:
 [ 1 ] para Binario (base 2) 
@@ -15,4 +14,3 @@ elif resposta == 3:
     print('{} convertido para Hexadecimal é igual a {}'.format(numero, hex(numero)[2:]))
 else:
     print('\033[1;31m[Comando inválido! tente novamente] \033[m')
-

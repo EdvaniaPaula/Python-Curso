@@ -2,6 +2,7 @@
 # A multa vai custar R$7,00 por cada km acima do limite.
 
 
+
 velocidade = float(input('Qual a velocidade do carro? '))
 if velocidade > 80:
     multa = velocidade - 80

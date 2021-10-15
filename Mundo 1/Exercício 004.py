@@ -1,6 +1,7 @@
 # Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
 
+
 n = input ('Digite algo: ')
 print('a classe/tipo:', type(n))
 print('Só tem espaços', n.isspace())

@@ -1,6 +1,7 @@
 # Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
 
+
 print('-=-'*20)
 print('  ANALIZADOR DE TRIÂNGULOS  ')
 print('-=-'*20)
@@ -11,5 +12,6 @@ if n1 < n2 + n3 and n2 < n1 + n3 and n3 < n1 + n2:
     print('É POSSIVEL formar um triângulo!')
 else:
     print('NÃO É POSSIVEL formar um triângulo!')
+    
 # A soma das medidas de dois lados de um triângulo é sempre maior que a medida do terceiro lado.
 # Essa propriedade é chamada de desigualdade triangular.

@@ -1,3 +1,4 @@
+
 nascimento = int(input('Informe o seu ano de nascimento: '))
 idade = 2021 - nascimento
 if idade == 18:
